@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Encryption",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
